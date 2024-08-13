@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohanraj0r
+- 👋 Hi, I’m @mohanraj
 - 👀 I’m interested in web development 
 - 🌱 I’m currently doing my bachelor's degree 
 
